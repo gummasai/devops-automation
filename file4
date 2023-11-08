@@ -1,0 +1,7 @@
+command: git clone <URL>
+
+SSH CLONE: git clone git@github.com:devopsawscloudtrainer2023/devops-automation.git
+    -> ssh key to clone, push, pull, fetch 
+
+Generate ssh key : ssh-keygen -t rsa
+
